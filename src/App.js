@@ -2,6 +2,7 @@ import {BrowserRouter as Router, Route} from 'react-router-dom';
 import 'bootstrap';
 import 'bootstrap/dist/css/bootstrap.css';
 import 'bootstrap/dist/js/bootstrap.js';
+import React, {}  from 'react';
 
 
 import Navbar from './components/navbar.component';
